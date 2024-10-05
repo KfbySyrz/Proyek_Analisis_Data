@@ -37,7 +37,7 @@ def create_seasonal_analysis(df):
 
 # Sidebar
 with st.sidebar:
-    # Menambahkan gambar
+    # Add Image
     st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
     
     # Add Title
