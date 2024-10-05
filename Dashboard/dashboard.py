@@ -48,7 +48,7 @@ with st.sidebar:
     st.markdown("A. Kafaby Syairozie")  
 
 # Load your data
-day_df = pd.read_csv("https://github.com/KfbySyrz/Proyek_Analisis_Data/blob/12d52a0c3f252aed949071a79b94a6b9e738a4c0/Dashboard/day.csv")  # Adjust the path as needed
+day_df = pd.read_csv("Dashboard/day.csv")  # Adjust the path as needed
 
 
 # Create Streamlit app
